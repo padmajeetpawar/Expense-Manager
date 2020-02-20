@@ -9,4 +9,4 @@ A Simple Expense Manager designed using JavaScript,HTML &amp; CSS
 
 ![alt text](screenshots/Screenshot1%20.png  " ")
 
-![alt text](screenshots/Screenshot2%20.png  " ")
+![alt text](screenshots/Screenshot2.png  " ")
