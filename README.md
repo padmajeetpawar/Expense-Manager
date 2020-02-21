@@ -5,7 +5,7 @@ A Simple Expense Manager designed using JavaScript,HTML &amp; CSS
 - JavaScript
 - HTML5 & CSS3
 
-## Game Overview
+## Overview
 
 ![alt text](screenshots/Screenshot1%20.png  " ")
 
