@@ -1,5 +1,5 @@
 # Expense-Manager
-A Simple Expense Manager designed using JavaScript,HTML &amp; CSS
+A Single Page Application (SPA) to track the daily expenses developed using vanilla JavaScript. The main objective to get into the JavaScript programming language and learn to manage the DOM and its attributes.
 
 ## Prpgramming Languages
 - JavaScript
